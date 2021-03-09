@@ -1,7 +1,21 @@
-nymea-plugins (0.27.0) UNRELEASED; urgency=medium
+nymea-plugins (0.27.0) xenial; urgency=medium
 
 
- -- Michael Zanetti <michael.zanetti@nymea.io>  Thu, 04 Mar 2021 00:14:37 +0100
+  [ Bernhard Trinnes ]
+  * WIP: New plugin: Luke Roberts
+
+  [ Michael Zanetti ]
+  * Nuki: Always clean up after a failed setup
+
+  [ Simon Stürz ]
+  * Nuki: Add support for Nuki 2.0
+  * ZigbeeGenericLights: Add power and level attribute reporting
+
+  [ Michael Zanetti ]
+  * 0.27
+  * Update to new battery interface
+
+ -- Jenkins <jenkins@nymea.io>  Wed, 10 Mar 2021 00:46:53 +0100
 
 nymea-plugins (0.26.0) xenial; urgency=medium
 
